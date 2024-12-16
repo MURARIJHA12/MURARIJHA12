@@ -55,8 +55,8 @@
 
 <h3 align="left">Certifications:</h3>
 <ul>
-  <li>Java Programming - XYZ Institute</li>
-  <li>Front-End Web Development - ABC Academy</li>
+  <li>Java Programming - learning linkedin</li>
+  <li>Front-End Web Development - learning linkedin</li>
   <!-- Add more certifications here -->
 </ul>
 
