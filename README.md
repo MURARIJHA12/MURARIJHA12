@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murari Kumar Jha</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=murarijha12&label=Profile%20views&color=0e75b6&style=flat" alt="murarijha12" />
@@ -8,14 +8,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/murari-kumar-jha-636796227/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Murari Jha" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Murari Jha LinkedIn"/>
   </a>
-  <a href="https://fb.com/murari.kumar.jha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Murari Kumar Jha" height="30" width="40" />
+  <a href="https://www.hackerrank.com/murarijha12" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Murari Jha HackerRank"/>
   </a>
-  <a href="https://instagram.com/jhamurari_br07" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhamurari_br07" height="30" width="40" />
+  <a href="https://leetcode.com/murarijha12/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Murari Jha LeetCode"/>
   </a>
+</p>
+
+<h3 align="left">About Me:</h3>
+<p align="left">
+  I'm currently pursuing my Master of Computer Application (MCA) at KIET Group of Institutions, Ghaziabad. I have a strong foundation in programming languages like Java and C, and I'm familiar with various technologies like React, Express JS, MongoDB, HTML, Node.js, and CSS. I have a deep understanding of Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Operating Systems.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,8 +45,35 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murarijha12&show_icons=true&locale=en&layout=compact" alt="murarijha12" /></p>
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><a href="https://github.com/murarijha12/Chalo-Ride" target="_blank">Chalo Ride</a> - A dynamic website for ride sharing built with HTML, CSS, and JavaScript.</li>
+  <!-- Add more projects here -->
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murarijha12&show_icons=true&locale=en" alt="murarijha12" /></p>
+<h3 align="left">Certifications:</h3>
+<ul>
+  <li>Java Programming - XYZ Institute</li>
+  <li>Front-End Web Development - ABC Academy</li>
+  <!-- Add more certifications here -->
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murarijha12&" alt="murarijha12" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murarijha12&show_icons=true&locale=en&layout=compact" alt="murarijha12" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murarijha12&show_icons=true&locale=en" alt="murarijha12" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murarijha12&" alt="murarijha12" />
+</p>
+
+<!-- Optional: Add a section for latest blog posts or articles if you have any -->
+<!--
+<h3 align="left">Latest Blog Posts:</h3>
+<ul>
+  <li><a href="https://yourblog.com/post1" target="_blank">Understanding Java Streams</a></li>
+  <li><a href="https://yourblog.com/post2" target="_blank">Spring Boot Best Practices</a></li>
+</ul>
+-->
