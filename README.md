@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/murari-kumar-jha-636796227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Murari Jha LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/murarijha12" target="_blank">
+  <a href="https://www.hackerrank.com/profile/jhamurari0987" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Murari Jha HackerRank"/>
   </a>
-  <a href="https://leetcode.com/murarijha12/" target="_blank">
+  <a href="https://leetcode.com/u/jhamurari/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Murari Jha LeetCode"/>
   </a>
 </p>
