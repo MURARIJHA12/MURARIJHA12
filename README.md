@@ -67,9 +67,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=murarijha12&show_icons=true&locale=en" alt="murarijha12" />
 </p>
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murarijha12&" alt="murarijha12" />
-</p>
+</p> -->
 
 <!-- Optional: Add a section for latest blog posts or articles if you have any -->
 <!--
