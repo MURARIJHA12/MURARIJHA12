@@ -51,7 +51,7 @@
   <li><a href="https://poetic-figolla-32d088.netlify.app/" target="_blank">Myntra Clone (HTML & CSS)</a> - A clone of Myntra website built using HTML and CSS. <a href="https://github.com/MURARIJHA12/PROJECT/tree/main/Project" target="_blank">GitHub Repository</a></li>
   <li><a href="https://phenomenal-hummingbird-44c4c5.netlify.app/" target="_blank">Weather App (HTML, CSS & JS)</a> - A weather forecasting app using HTML, CSS, and JavaScript. <a href="https://github.com/MURARIJHA12/PROJECT/tree/main/WeatherApp" target="_blank">GitHub Repository</a></li>
   <li><a href="https://tranquil-phoenix-04f084.netlify.app/" target="_blank">Survey Form</a> - A basic survey form built with HTML. <a href="https://github.com/MURARIJHA12/PROJECT/tree/main/SurvaForms" target="_blank">GitHub Repository</a></li>
-  <li><a href="https://app.netlify.com/sites/relaxed-pothos-414e8d/overview" target="_blank">Survey Form</a> - A basic survey form built with HTML. <a href="https://github.com/MURARIJHA12/PROJECT/tree/main/SurvaForms" target="_blank">GitHub Repository</a></li>
+  <li><a href="https://app.netlify.com/sites/relaxed-pothos-414e8d/overview" target="_blank"> My PortFolio</a> - simple portFoli. <a href="https://github.com/MURARIJHA12/PROJECT/tree/main/SurvaForms" target="_blank">GitHub Repository</a></li>
 </ul>
 
 <h3 align="left">Certifications:</h3>
